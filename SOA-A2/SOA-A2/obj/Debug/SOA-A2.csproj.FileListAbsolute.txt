@@ -1,0 +1,10 @@
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\bin\Debug\SOA-A2.exe.config
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\bin\Debug\SOA-A2.exe
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\bin\Debug\SOA-A2.pdb
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\obj\Debug\SOA-A2.csprojAssemblyReference.cache
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\obj\Debug\SOA_A2.SOAPForm.resources
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\obj\Debug\SOA_A2.Properties.Resources.resources
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\obj\Debug\SOA-A2.csproj.GenerateResource.cache
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\obj\Debug\SOA-A2.csproj.CoreCompileInputs.cache
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\obj\Debug\SOA-A2.exe
+C:\Users\james\Desktop\SOAP-Web-Services-\SOA-A2\SOA-A2\obj\Debug\SOA-A2.pdb
