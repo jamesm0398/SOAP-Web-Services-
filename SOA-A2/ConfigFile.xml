@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<services>
+  
+ 
+  <service name="Calculator">
+    <url>"http://www.dneonline.com/calculator.asmx"</url>
+    <method name ="Add">
+      "?op=Add"
+    </method>
+    <method name ="Multiply">
+      "?op=Multiply"
+    </method>
+    <method name ="Divide">
+      "?op=Divide"
+    </method>
+    <method name ="Subtract">
+      "?op=Subtract"
+    </method>
+   
+  </service>
+  
+ 
+  <service name="Resolve IP">
+    <url>http://ws.cdyne.com/ip2geo/ip2geo.asmx?op=ResolveIP</url>
+  </service>
+  
+
+  <service name="Phone Verifier">
+    <url>http://ws.cdyne.com/phoneverify/phoneverify.asmx</url>
+  </service>
+  
+ 
+  <service name="Dictionary">
+    <url>http://services.aonaware.com/DictService/DictService.asmx</url>
+    <method name="Define">
+      "?op=Define"
+    </method>
+    <method name="DictionaryInfo">
+      "?op=DictionaryInfo"
+    </method>
+    <method name="DefineInDict">
+      "?op=DefineInDict"
+    </method>
+    <method name="Match">
+      "?op=Match"
+    </method>
+  </service>
+  
+</services>
